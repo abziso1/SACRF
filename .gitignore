@@ -1,0 +1,9 @@
+embeddings/
+__pycache__/
+*.pyc
+.vscode/
+logs/
+ckpt/
+data/
+*.log
+.DS_Store
